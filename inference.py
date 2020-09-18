@@ -4,8 +4,8 @@ import argparse
 sys.path.append('./lib')
 from bert import BERTLM
 from treelstm import TreeLSTM
-from models import myModel
-from models import TreeArgs
+from kvbert import myModel
+from kvbert import TreeArgs
 from treelstm import treeVocab
 import numpy as np
 from google_bert import BasicTokenizer
