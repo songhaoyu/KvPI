@@ -1,31 +1,62 @@
-Data Format:
+## Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents
+[<img src="_static/pytorch-logo.png" width="10%">](https://github.com/pytorch/pytorch) [<img src="https://www.apache.org/img/ASF20thAnniversary.jpg" width="6%">](https://www.apache.org/licenses/LICENSE-2.0)
 
-Each line in the document should look like: text + '\t' + label
+<img align="right" src="_static/scir.png" width="20%">
 
-To run the experiment, change the settings in main.sh, and then run the script. The accuracy result will be shown as training goes.
+This repository contains resources for EMNLP-20 main conference paper:
 
-    --bert_path : pretrained bert model path
-    --bert_vocab : bert vocabulary file path
-    --train_data : training data path
-    --dev_data : dev data path
-    --max_len : max len of the input sequence
-    --batch_size : batch size
-    --lr : learning rate
-    --dropout : dropout ratio
-    --number_class : number of classes
-    --number_epoch : epoch number
-    --gpu_id : which GPU to use
-    --print_every : how many batches to print one temporary result
-    --fine_tune
-    --model_save_path : model save path
+**Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents**.
+[[arXiv]](https://arxiv.org/)
 
-To run inference, use `inference.sh`:
 
-``` 
-    --max_len : max len of the input sequence
-    --ckpt_path : model save path
-    --test_data : data to evaluate (each line is text)
-    --out_path : output result path
-    --gpu_id : which GPU to use
-```
+## Resources
+* Download the full KvPI dataset: [Google Drive] , [Baidu Netdisk]
 
+* Download checkpoint to reproduce reported results: [[GoogleDrive]](https://drive.google.com/file/d/1WBMctI_9HmvhM-4OGyuBzWY4P3Tftu58/view?usp=sharing) , [[BaiduNetdisk]](https://pan.baidu.com/s/1F4b2TTjqje6SifwF_HwaZQ) pwd: pt4g
+
+
+
+## Introduction
+<p align="center">
+<img src="_static/introduction.pdf" width="55%" />
+</p>
+
+Details will be updated soon.
+
+
+
+
+## KvPI Dataset
+<p align="center">
+<img src="_static/kvpi.png" width="80%" />
+</p>
+
+
+
+## KvBERT
+<p align="center">
+<img src="_static/kvbert.pdf" width="80%" />
+</p>
+
+
+## How to Run
+Details will be updated soon.
+
+## What can we do using KvPI?
+Details will be updated soon.
+
+## MISC
+* If the datasets, codes or checkpoints are of help to your work, please cite the following papers:
+
+	<pre>
+	@inproceedings{song2020kvpi,
+	    title = "Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents",
+	    author={Song, Haoyu and Wang, Yan and Zhang, Wei-Nan and Zhao, Zhengyu and Liu, Ting and Liu, Xiaojiang},
+	    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+	    month = Nov,
+	    year = "2020",
+	    publisher = "Association for Computational Linguistics",
+	}
+	</pre>
+
+* Notice that we trained the KvBERT model from a private Chinese BERT-base checkpoint and thus didn't provide the training codes and scripts in this repository. If you have a reasonable purpose and indeed need the training scripts, please email *hysong@ir.hit.edu.cn*.
