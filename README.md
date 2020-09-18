@@ -46,7 +46,7 @@ Details will be updated soon.
 ## How to Run
 Details will be updated soon.
 
-## What can we do using KvPI?
+## What Can We Do Using KvPI?
 Details will be updated soon.
 
 ## MISC
