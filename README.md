@@ -13,9 +13,9 @@ This repository contains resources for EMNLP-20 main conference paper:
 
 * Source codes for KvBERT model: [[Github]](https://github.com/songhaoyu/KvPI)
 
-* Download the full KvPI dataset: [GoogleDrive] , [BaiduNetdisk]
+* Download the full KvPI dataset: [GoogleDrive], [BaiduNetdisk]
 
-* Download checkpoint to reproduce the reported results: [[GoogleDrive]](https://drive.google.com/file/d/1WBMctI_9HmvhM-4OGyuBzWY4P3Tftu58/view?usp=sharing) , [[BaiduNetdisk]](https://pan.baidu.com/s/1F4b2TTjqje6SifwF_HwaZQ) pwd: pt4g
+* Download checkpoint to reproduce the reported results: [[GoogleDrive]](https://drive.google.com/file/d/1WBMctI_9HmvhM-4OGyuBzWY4P3Tftu58/view?usp=sharing), [[BaiduNetdisk]](https://pan.baidu.com/s/1F4b2TTjqje6SifwF_HwaZQ) pwd: pt4g; MD5 for the checkpoint: 0993c09872f074a04d29a4851cf2cfce
 
 
 
