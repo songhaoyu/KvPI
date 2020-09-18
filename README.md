@@ -18,7 +18,7 @@ This repository contains resources for EMNLP-20 main conference paper:
 
 ## Introduction
 <p align="center">
-<img src="_static/introduction.pdf" width="55%" />
+<img src="_static/introduction.png" width="55%" />
 </p>
 
 Details will be updated soon.
@@ -35,7 +35,7 @@ Details will be updated soon.
 
 ## KvBERT
 <p align="center">
-<img src="_static/kvbert.pdf" width="80%" />
+<img src="_static/kvbert.png" width="80%" />
 </p>
 
 
