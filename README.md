@@ -54,12 +54,12 @@ Details will be updated soon.
 
 	<pre>
 	@inproceedings{song2020kvpi,
-	    title = "Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents",
-	    author={Song, Haoyu and Wang, Yan and Zhang, Wei-Nan and Zhao, Zhengyu and Liu, Ting and Liu, Xiaojiang},
-	    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
-	    month = Nov,
-	    year = "2020",
-	    publisher = "Association for Computational Linguistics",
+	    title = {Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents},
+	    author = {Song, Haoyu and Wang, Yan and Zhang, Wei-Nan and Zhao, Zhengyu and Liu, Ting and Liu, Xiaojiang},
+	    booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
+	    month = {November},
+	    year = {2020},
+	    publisher = {Association for Computational Linguistics},
 	}
 	</pre>
 
