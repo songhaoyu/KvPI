@@ -1,7 +1,7 @@
 ## Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents
 [<img src="_static/pytorch-logo.png" width="10%">](https://github.com/pytorch/pytorch) [<img src="https://www.apache.org/img/ASF20thAnniversary.jpg" width="6%">](https://www.apache.org/licenses/LICENSE-2.0)
 
-<img align="right" src="_static/scir.png" width="20%">
+[<img align="right" src="_static/scir.png" width="20%">](http://ir.hit.edu.cn/)
 
 This repository contains resources for EMNLP-20 main conference paper:
 
