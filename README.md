@@ -10,6 +10,14 @@ This repository contains resources for EMNLP-20 main conference paper:
 
 The code here is ready for running. And all resources are ready.
 
+## Shortcuts
+* [Resources](https://github.com/songhaoyu/KvPI#resources)
+* [Introduction](https://github.com/songhaoyu/KvPI#introduction)
+* [KvPI Dataset](https://github.com/songhaoyu/KvPI#kvpi-dataset)
+* [KvBERT](https://github.com/songhaoyu/KvPI#kvbert)
+* [How to Run](https://github.com/songhaoyu/KvPI#how-to-run)
+* [MISC](https://github.com/songhaoyu/KvPI#misc)
+
 ## Resources
 
 * Source codes for KvBERT model: [[Github]](https://github.com/songhaoyu/KvPI)
