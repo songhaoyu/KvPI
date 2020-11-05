@@ -22,7 +22,7 @@ The code here is ready for running. And all resources are ready.
 
 * Source codes for KvBERT model: [[Github]](https://github.com/songhaoyu/KvPI)
 
-* Download the full dataset: [[KvPI Dataset]](https://ai.tencent.com/ailab/nlp/dialogue/datasets/KvPI.zip).
+* Download the full dataset: [[KvPI Dataset]](https://ai.tencent.com/ailab/nlp/dialogue/datasets/KvPI.zip)
 
 * Download checkpoint to reproduce the reported results: [[GoogleDrive]](https://drive.google.com/file/d/1WBMctI_9HmvhM-4OGyuBzWY4P3Tftu58/view?usp=sharing), [[BaiduNetdisk]](https://pan.baidu.com/s/1F4b2TTjqje6SifwF_HwaZQ) pwd: pt4g; MD5 for the checkpoint: 0993c09872f074a04d29a4851cf2cfce
 
