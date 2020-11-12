@@ -6,7 +6,7 @@
 This repository contains resources for EMNLP-20 main conference paper:
 
 **Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents**.
-[[arXiv]](https://arxiv.org/abs/2009.09680)
+[[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.539.pdf)
 
 The code here is ready for running. And all resources are ready.
 
