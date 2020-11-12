@@ -140,14 +140,22 @@ Details will be updated later.
 * If the datasets, codes or checkpoints are of help to your work, please cite the following papers:
 
 	<pre>
-	@inproceedings{song-2020-kvpi,
-	    title = {Profile Consistency Identification for Open-domain Dialogue Agents},
-	    author = {Song, Haoyu and Wang, Yan and Zhang, Wei-Nan and Zhao, Zhengyu and Liu, Ting and Liu, Xiaojiang},
-	    booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
-	    month = {November},
-	    year = {2020},
-	    publisher = {Association for Computational Linguistics},
-	}
+	@inproceedings{song-etal-2020-profile,
+		    title = "Profile Consistency Identification for Open-domain Dialogue Agents",
+		    author = "Song, Haoyu  and
+		      Wang, Yan  and
+		      Zhang, Wei-Nan  and
+		      Zhao, Zhengyu  and
+		      Liu, Ting  and
+		      Liu, Xiaojiang",
+		    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+		    month = nov,
+		    year = "2020",
+		    address = "Online",
+		    publisher = "Association for Computational Linguistics",
+		    url = "https://www.aclweb.org/anthology/2020.emnlp-main.539",
+		    pages = "6651--6662",
+		}
 	</pre>
 
 * Notice that we trained the KvBERT model from a private Chinese BERT-base checkpoint and thus didn't provide the training codes and scripts in this repository. If you have a reasonable purpose and indeed need the training scripts, please email *hysong@ir.hit.edu.cn*.
