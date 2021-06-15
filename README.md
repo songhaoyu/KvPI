@@ -158,4 +158,4 @@ Details will be updated later.
 	}
 	</pre>
 
-* Notice that we trained the KvBERT model from a private Chinese BERT-base checkpoint and thus didn't provide the training codes and scripts in this repository. If you have a reasonable purpose and indeed need the training scripts, please email *hysong@ir.hit.edu.cn*.
+* Notice that we trained the KvBERT model from a private Chinese BERT-base checkpoint and thus didn't provide the training codes and scripts in this repository. If you have a reasonable purpose and indeed need the training scripts, please email *hysong@ir.hit.edu.cn* with your **institution email**.
